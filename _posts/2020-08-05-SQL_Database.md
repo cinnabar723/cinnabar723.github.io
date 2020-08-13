@@ -3,7 +3,7 @@ title: "SQL Database Project"
 date: 2020-08-05
 tags: [database, data analytics, ETL]
 header:
-  image: "/images/perceptron/nycbuilding.jpg"
+  image: "/images/nycbuilding.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
