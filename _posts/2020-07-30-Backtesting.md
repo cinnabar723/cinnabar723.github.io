@@ -3,7 +3,7 @@ title: "Stock Performance Backtesting"
 date: 2020-07-30
 tags: [Stock, Financial]
 header:
-  image: "/images/perceptron/stock.png"
+  image: "/images/perceptron/stock.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
