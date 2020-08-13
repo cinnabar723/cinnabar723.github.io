@@ -3,7 +3,7 @@ title: "IBDM Movie Data Analysis"
 date: 2020-05-20
 tags: [Data Wrangling, Machine Learning, R]
 header:
-  image: "/images/perceptron/movie.jpg"
+  image: "/images/movie.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
