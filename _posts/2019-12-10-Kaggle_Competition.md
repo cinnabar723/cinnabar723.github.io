@@ -3,7 +3,7 @@ title: "Kaggle Competition - Predict Airbnb Listing Price"
 date: 2019-12-10
 tags: [Predictive Analysis, Data Wrangling]
 header:
-  image: "/images/perceptron/airbnb.jpg"
+  image: "/images/airbnb.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
