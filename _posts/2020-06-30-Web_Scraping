@@ -1,0 +1,15 @@
+---
+title: "Web Scraping the Trading Data"
+date: 2020-06-30
+tags: [Web Scraping]
+header:
+  image: "/images/perceptron/trading.jpg"
+excerpt: "Data Wrangling, Data Science, Messy Data"
+mathjax: "true"
+---
+
+## Project Introduction
+This is a web scraping process I used to help my company automate the trading data collection process and build a database. I used Selenium and BeautifulSoups to scrap the data from the website and then save the data as a dataframe
+
+## Project Code
+You can see the full process in the notebook with this [link](https://nbviewer.jupyter.org/github/cinnabar723/Project-Library/blob/master/InsiderTrading.ipynb)
