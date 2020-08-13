@@ -18,4 +18,4 @@ The process is summarized below:
 5. Export the data and perform visualization in Excel
 
 ## Project Code
-You can see the full code in the Notebook using this [link](https://nbviewer.jupyter.org/github/cinnabar723/Project-Library/blob/master/Backtesting_CleanVer.ipynb)
+You can see the full code in the Notebook using this [link](https://nbviewer.jupyter.org/github/cinnabar723/Project-Library/blob/master/Backtesting_CleanVer.ipynb).
